@@ -1,0 +1,6 @@
+ when you create a new file first 
+1 )  git config --global"username"
+2 )  git config --global emailadress
+3 ) then git config --list 
+4 ) git status - to check if there are any files
+5 ) git add "file name" 
