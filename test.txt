@@ -1,1 +1,2 @@
 this is my test file created on github acct
+updated text on Remote repository (git hub acct) and now fetch the data from remote repository to local repository(laptop)
