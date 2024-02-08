@@ -30,7 +30,8 @@ if you want to create multiple branches
 14 ) git commit -m "adding to copybranch filename"
 
 now we have to push our copy branch to github acct 
-15 ) git checkout master
+15 ) git checkout master:- here you switch from copy branch to master branch 
+     git merge coppybranch:- merges the copybranch with the (remote R)
 16 ) git push origin master
 
 we have made changes in the remote repository( github acct) and we have to fetch and rebase the data to out local repository 
