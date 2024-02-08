@@ -37,3 +37,7 @@ now we have to push our copy branch to github acct
 we have made changes in the remote repository( github acct) and we have to fetch and rebase the data to out local repository 
 17 ) git fetch :- this fetches data from (Remo R) 
 18 ) git rebase origin/master :-  this updates refs/heads/masters  
+
+if you want to delete a file from the github eg:- you delete a file on remote repository and commit the changes then how will you sync the changes in the local repository 
+19 ) git fetch 
+20 ) git rebase origin/master  
